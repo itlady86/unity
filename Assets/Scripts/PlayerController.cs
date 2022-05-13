@@ -9,12 +9,14 @@ public class PlayerController : MonoBehaviour
     private float strength = 5;
     private bool spaceWasPressed;
     private bool isGrounded;
- 
+    private int count;
 
     private void Start()
     {
         // zpøístupìní objektu hráèe
         rb = GetComponent<Rigidbody>();
+
+        count = 0;
     }
 
     private void Update()
@@ -60,7 +62,12 @@ public class PlayerController : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        if(other.gameObject.CompareTag("Coin"))
+        if(other.gameObject.CompareTag("Coin")) 
+        {
+            other.gameObject.SetActive(false);
+            count++;
+        }
+        if (other.gameObject.CompareTag("Goal"))
         {
             other.gameObject.SetActive(false);
         }
