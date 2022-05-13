@@ -178,6 +178,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: hurdle md
       objectReference: {fileID: 0}
+    - target: {fileID: 7980590782236058737, guid: 2209101700dde204ab31cdda69ebf607, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2209101700dde204ab31cdda69ebf607, type: 3}
 --- !u!4 &21309532 stripped
@@ -314,12 +318,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: hurdle lg (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 7980590782236058737, guid: cb9357ebb5f9c064a9909b9bb8a5d673, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cb9357ebb5f9c064a9909b9bb8a5d673, type: 3}
 --- !u!4 &67242217 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7895440503942107609, guid: cb9357ebb5f9c064a9909b9bb8a5d673, type: 3}
   m_PrefabInstance: {fileID: 67242216}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &67669611 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 3076b9d885d3290469095066b80e14b2, type: 3}
+  m_PrefabInstance: {fileID: 1038083089}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &70942453
 GameObject:
@@ -485,6 +498,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: hurdle lg (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 7980590782236058737, guid: cb9357ebb5f9c064a9909b9bb8a5d673, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cb9357ebb5f9c064a9909b9bb8a5d673, type: 3}
 --- !u!4 &89624877 stripped
@@ -546,6 +563,10 @@ PrefabInstance:
     - target: {fileID: 7980590782236058737, guid: e75a3aa07e5032049adbbf31b1fb0605, type: 3}
       propertyPath: m_Name
       value: hurdle sm
+      objectReference: {fileID: 0}
+    - target: {fileID: 7980590782236058737, guid: e75a3aa07e5032049adbbf31b1fb0605, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e75a3aa07e5032049adbbf31b1fb0605, type: 3}
@@ -716,7 +737,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &167605508
 Transform:
@@ -793,6 +814,10 @@ PrefabInstance:
     - target: {fileID: 7980590782236058737, guid: 2209101700dde204ab31cdda69ebf607, type: 3}
       propertyPath: m_Name
       value: hurdle md (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7980590782236058737, guid: 2209101700dde204ab31cdda69ebf607, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2209101700dde204ab31cdda69ebf607, type: 3}
@@ -930,6 +955,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: hurdle lg (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 7980590782236058737, guid: cb9357ebb5f9c064a9909b9bb8a5d673, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cb9357ebb5f9c064a9909b9bb8a5d673, type: 3}
 --- !u!4 &185635669 stripped
@@ -1065,6 +1094,10 @@ PrefabInstance:
     - target: {fileID: 7980590782236058737, guid: cb9357ebb5f9c064a9909b9bb8a5d673, type: 3}
       propertyPath: m_Name
       value: hurdle lg (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7980590782236058737, guid: cb9357ebb5f9c064a9909b9bb8a5d673, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cb9357ebb5f9c064a9909b9bb8a5d673, type: 3}
@@ -1206,6 +1239,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: hurdle xl (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 7980590782236058737, guid: 8030d4aeca8e5794abf9d0a1c2ddb896, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8030d4aeca8e5794abf9d0a1c2ddb896, type: 3}
 --- !u!4 &263145271 stripped
@@ -1268,6 +1305,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: hurdle xl
       objectReference: {fileID: 0}
+    - target: {fileID: 7980590782236058737, guid: 8030d4aeca8e5794abf9d0a1c2ddb896, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8030d4aeca8e5794abf9d0a1c2ddb896, type: 3}
 --- !u!4 &281645656 stripped
@@ -1329,6 +1370,14 @@ PrefabInstance:
     - target: {fileID: 3180377001987523629, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
       propertyPath: m_Name
       value: Coin (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3180377001987523629, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
+      propertyPath: m_TagString
+      value: Coin
+      objectReference: {fileID: 0}
+    - target: {fileID: 3180377001987523629, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
@@ -1544,6 +1593,10 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 7980590782236058737, guid: 2209101700dde204ab31cdda69ebf607, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2209101700dde204ab31cdda69ebf607, type: 3}
 --- !u!4 &319779634 stripped
@@ -1605,6 +1658,10 @@ PrefabInstance:
     - target: {fileID: 7980590782236058737, guid: e75a3aa07e5032049adbbf31b1fb0605, type: 3}
       propertyPath: m_Name
       value: hurdle sm (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7980590782236058737, guid: e75a3aa07e5032049adbbf31b1fb0605, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e75a3aa07e5032049adbbf31b1fb0605, type: 3}
@@ -1746,6 +1803,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: hurdle sm (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 7980590782236058737, guid: e75a3aa07e5032049adbbf31b1fb0605, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e75a3aa07e5032049adbbf31b1fb0605, type: 3}
 --- !u!4 &444541303 stripped
@@ -1807,6 +1868,14 @@ PrefabInstance:
     - target: {fileID: 3180377001987523629, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
       propertyPath: m_Name
       value: Coin (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3180377001987523629, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
+      propertyPath: m_TagString
+      value: Coin
+      objectReference: {fileID: 0}
+    - target: {fileID: 3180377001987523629, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
@@ -1870,6 +1939,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Coin (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 3180377001987523629, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
+      propertyPath: m_TagString
+      value: Coin
+      objectReference: {fileID: 0}
+    - target: {fileID: 3180377001987523629, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
 --- !u!4 &447661301 stripped
@@ -1931,6 +2008,14 @@ PrefabInstance:
     - target: {fileID: 3180377001987523629, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
       propertyPath: m_Name
       value: Coin (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3180377001987523629, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
+      propertyPath: m_TagString
+      value: Coin
+      objectReference: {fileID: 0}
+    - target: {fileID: 3180377001987523629, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
@@ -2063,7 +2148,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &498051645
 Transform:
@@ -2138,6 +2223,10 @@ PrefabInstance:
     - target: {fileID: 7980590782236058737, guid: 2209101700dde204ab31cdda69ebf607, type: 3}
       propertyPath: m_Name
       value: hurdle md (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7980590782236058737, guid: 2209101700dde204ab31cdda69ebf607, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2209101700dde204ab31cdda69ebf607, type: 3}
@@ -2279,6 +2368,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: hurdle md (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 7980590782236058737, guid: 2209101700dde204ab31cdda69ebf607, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2209101700dde204ab31cdda69ebf607, type: 3}
 --- !u!4 &523035910 stripped
@@ -2415,6 +2508,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Coin (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 3180377001987523629, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
+      propertyPath: m_TagString
+      value: Coin
+      objectReference: {fileID: 0}
+    - target: {fileID: 3180377001987523629, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
 --- !u!4 &532294264 stripped
@@ -2513,6 +2614,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Coin (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 3180377001987523629, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
+      propertyPath: m_TagString
+      value: Coin
+      objectReference: {fileID: 0}
+    - target: {fileID: 3180377001987523629, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
 --- !u!4 &583338304 stripped
@@ -2544,11 +2653,11 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 589018178}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -45.969517, y: -0.90243244, z: -20.18201}
+  m_LocalPosition: {x: 0, y: 0.32, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 2142716031}
+  - {fileID: 1038083090}
   m_Father: {fileID: 0}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -2607,17 +2716,20 @@ PrefabInstance:
       propertyPath: m_Name
       value: Coin (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 3180377001987523629, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
+      propertyPath: m_TagString
+      value: Coin
+      objectReference: {fileID: 0}
+    - target: {fileID: 3180377001987523629, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
 --- !u!4 &590188323 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3180377001987523617, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
   m_PrefabInstance: {fileID: 590188322}
-  m_PrefabAsset: {fileID: 0}
---- !u!1 &599738415 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 3076b9d885d3290469095066b80e14b2, type: 3}
-  m_PrefabInstance: {fileID: 2142716030}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &601554701
 PrefabInstance:
@@ -2677,6 +2789,10 @@ PrefabInstance:
     - target: {fileID: 7980590782236058737, guid: e75a3aa07e5032049adbbf31b1fb0605, type: 3}
       propertyPath: m_Name
       value: hurdle sm (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7980590782236058737, guid: e75a3aa07e5032049adbbf31b1fb0605, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e75a3aa07e5032049adbbf31b1fb0605, type: 3}
@@ -2744,6 +2860,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: hurdle md (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 7980590782236058737, guid: 2209101700dde204ab31cdda69ebf607, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2209101700dde204ab31cdda69ebf607, type: 3}
 --- !u!4 &643236727 stripped
@@ -2809,6 +2929,10 @@ PrefabInstance:
     - target: {fileID: 7980590782236058737, guid: cb9357ebb5f9c064a9909b9bb8a5d673, type: 3}
       propertyPath: m_Name
       value: hurdle lg (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7980590782236058737, guid: cb9357ebb5f9c064a9909b9bb8a5d673, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cb9357ebb5f9c064a9909b9bb8a5d673, type: 3}
@@ -3020,6 +3144,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: hurdle lg (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 7980590782236058737, guid: cb9357ebb5f9c064a9909b9bb8a5d673, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cb9357ebb5f9c064a9909b9bb8a5d673, type: 3}
 --- !u!4 &681024409 stripped
@@ -3156,6 +3284,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: hurdle lg (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 7980590782236058737, guid: cb9357ebb5f9c064a9909b9bb8a5d673, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cb9357ebb5f9c064a9909b9bb8a5d673, type: 3}
 --- !u!4 &684715591 stripped
@@ -3221,6 +3353,10 @@ PrefabInstance:
     - target: {fileID: 7980590782236058737, guid: 2209101700dde204ab31cdda69ebf607, type: 3}
       propertyPath: m_Name
       value: hurdle md (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7980590782236058737, guid: 2209101700dde204ab31cdda69ebf607, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2209101700dde204ab31cdda69ebf607, type: 3}
@@ -3378,6 +3514,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: hurdle lg (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 7980590782236058737, guid: cb9357ebb5f9c064a9909b9bb8a5d673, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cb9357ebb5f9c064a9909b9bb8a5d673, type: 3}
 --- !u!4 &725613039 stripped
@@ -3479,7 +3619,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!135 &776327459
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -3642,6 +3782,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Coin (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 3180377001987523629, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
+      propertyPath: m_TagString
+      value: Coin
+      objectReference: {fileID: 0}
+    - target: {fileID: 3180377001987523629, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
 --- !u!4 &778027053 stripped
@@ -3703,6 +3851,10 @@ PrefabInstance:
     - target: {fileID: 7980590782236058737, guid: cb9357ebb5f9c064a9909b9bb8a5d673, type: 3}
       propertyPath: m_Name
       value: hurdle lg (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7980590782236058737, guid: cb9357ebb5f9c064a9909b9bb8a5d673, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cb9357ebb5f9c064a9909b9bb8a5d673, type: 3}
@@ -3844,6 +3996,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: hurdle lg (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 7980590782236058737, guid: cb9357ebb5f9c064a9909b9bb8a5d673, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cb9357ebb5f9c064a9909b9bb8a5d673, type: 3}
 --- !u!4 &826351290 stripped
@@ -3984,6 +4140,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: hurdle sm (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 7980590782236058737, guid: e75a3aa07e5032049adbbf31b1fb0605, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e75a3aa07e5032049adbbf31b1fb0605, type: 3}
 --- !u!4 &869713165 stripped
@@ -4046,6 +4206,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Coin (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 3180377001987523629, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
+      propertyPath: m_TagString
+      value: Coin
+      objectReference: {fileID: 0}
+    - target: {fileID: 3180377001987523629, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
 --- !u!4 &888744441 stripped
@@ -4067,7 +4235,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &888971216
 Transform:
@@ -4165,6 +4333,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: hurdle md (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 7980590782236058737, guid: 2209101700dde204ab31cdda69ebf607, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2209101700dde204ab31cdda69ebf607, type: 3}
 --- !u!4 &907287481 stripped
@@ -4226,6 +4398,14 @@ PrefabInstance:
     - target: {fileID: 3180377001987523629, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
       propertyPath: m_Name
       value: Coin (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3180377001987523629, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
+      propertyPath: m_TagString
+      value: Coin
+      objectReference: {fileID: 0}
+    - target: {fileID: 3180377001987523629, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
@@ -4293,6 +4473,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: hurdle md (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 7980590782236058737, guid: 2209101700dde204ab31cdda69ebf607, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2209101700dde204ab31cdda69ebf607, type: 3}
 --- !u!4 &934148321 stripped
@@ -4355,6 +4539,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: hurdle md (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 7980590782236058737, guid: 2209101700dde204ab31cdda69ebf607, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2209101700dde204ab31cdda69ebf607, type: 3}
 --- !u!4 &955023138 stripped
@@ -4383,7 +4571,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7895440503942107609, guid: cb9357ebb5f9c064a9909b9bb8a5d673, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -17.33
+      value: -17.39
       objectReference: {fileID: 0}
     - target: {fileID: 7895440503942107609, guid: cb9357ebb5f9c064a9909b9bb8a5d673, type: 3}
       propertyPath: m_LocalRotation.w
@@ -4416,6 +4604,10 @@ PrefabInstance:
     - target: {fileID: 7980590782236058737, guid: cb9357ebb5f9c064a9909b9bb8a5d673, type: 3}
       propertyPath: m_Name
       value: hurdle lg (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7980590782236058737, guid: cb9357ebb5f9c064a9909b9bb8a5d673, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cb9357ebb5f9c064a9909b9bb8a5d673, type: 3}
@@ -4799,6 +4991,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: hurdle lg (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 7980590782236058737, guid: cb9357ebb5f9c064a9909b9bb8a5d673, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cb9357ebb5f9c064a9909b9bb8a5d673, type: 3}
 --- !u!4 &1030039478 stripped
@@ -4880,6 +5076,80 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 7895440503942107609, guid: 0facb0c42aabea049b2dcd681bd517ff, type: 3}
   m_PrefabInstance: {fileID: 1036766724}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1038083089
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 589018179}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 3076b9d885d3290469095066b80e14b2, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3076b9d885d3290469095066b80e14b2, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -20.92
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3076b9d885d3290469095066b80e14b2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.89
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3076b9d885d3290469095066b80e14b2, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -20.79
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3076b9d885d3290469095066b80e14b2, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3076b9d885d3290469095066b80e14b2, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3076b9d885d3290469095066b80e14b2, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.70710677
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3076b9d885d3290469095066b80e14b2, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.70710677
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3076b9d885d3290469095066b80e14b2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 270
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3076b9d885d3290469095066b80e14b2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 270
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3076b9d885d3290469095066b80e14b2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3076b9d885d3290469095066b80e14b2, type: 3}
+      propertyPath: m_Name
+      value: goal
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3076b9d885d3290469095066b80e14b2, type: 3}
+--- !u!4 &1038083090 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 3076b9d885d3290469095066b80e14b2, type: 3}
+  m_PrefabInstance: {fileID: 1038083089}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1038083091
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 67669611}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d152ebf74285da4082d86147a96d254, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1045323615
 GameObject:
   m_ObjectHideFlags: 0
@@ -4971,6 +5241,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: hurdle lg (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 7980590782236058737, guid: cb9357ebb5f9c064a9909b9bb8a5d673, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cb9357ebb5f9c064a9909b9bb8a5d673, type: 3}
 --- !u!4 &1072434562 stripped
@@ -5032,6 +5306,10 @@ PrefabInstance:
     - target: {fileID: 7980590782236058737, guid: cb9357ebb5f9c064a9909b9bb8a5d673, type: 3}
       propertyPath: m_Name
       value: hurdle lg
+      objectReference: {fileID: 0}
+    - target: {fileID: 7980590782236058737, guid: cb9357ebb5f9c064a9909b9bb8a5d673, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cb9357ebb5f9c064a9909b9bb8a5d673, type: 3}
@@ -5341,6 +5619,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: hurdle xl (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 7980590782236058737, guid: 8030d4aeca8e5794abf9d0a1c2ddb896, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8030d4aeca8e5794abf9d0a1c2ddb896, type: 3}
 --- !u!4 &1168158654 stripped
@@ -5407,6 +5689,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: hurdle md (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 7980590782236058737, guid: 2209101700dde204ab31cdda69ebf607, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2209101700dde204ab31cdda69ebf607, type: 3}
 --- !u!4 &1187837984 stripped
@@ -5468,6 +5754,14 @@ PrefabInstance:
     - target: {fileID: 3180377001987523629, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
       propertyPath: m_Name
       value: Coin (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3180377001987523629, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
+      propertyPath: m_TagString
+      value: Coin
+      objectReference: {fileID: 0}
+    - target: {fileID: 3180377001987523629, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
@@ -5641,6 +5935,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: hurdle xl (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 7980590782236058737, guid: 8030d4aeca8e5794abf9d0a1c2ddb896, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8030d4aeca8e5794abf9d0a1c2ddb896, type: 3}
 --- !u!4 &1223187741 stripped
@@ -5702,6 +6000,10 @@ PrefabInstance:
     - target: {fileID: 7980590782236058737, guid: cb9357ebb5f9c064a9909b9bb8a5d673, type: 3}
       propertyPath: m_Name
       value: hurdle lg (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7980590782236058737, guid: cb9357ebb5f9c064a9909b9bb8a5d673, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cb9357ebb5f9c064a9909b9bb8a5d673, type: 3}
@@ -5765,6 +6067,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: hurdle sm (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 7980590782236058737, guid: e75a3aa07e5032049adbbf31b1fb0605, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e75a3aa07e5032049adbbf31b1fb0605, type: 3}
 --- !u!4 &1258842234 stripped
@@ -5827,6 +6133,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Coin (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 3180377001987523629, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
+      propertyPath: m_TagString
+      value: Coin
+      objectReference: {fileID: 0}
+    - target: {fileID: 3180377001987523629, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
 --- !u!4 &1362826684 stripped
@@ -5888,6 +6202,14 @@ PrefabInstance:
     - target: {fileID: 3180377001987523629, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
       propertyPath: m_Name
       value: Coin
+      objectReference: {fileID: 0}
+    - target: {fileID: 3180377001987523629, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
+      propertyPath: m_TagString
+      value: Coin
+      objectReference: {fileID: 0}
+    - target: {fileID: 3180377001987523629, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
@@ -6025,6 +6347,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Coin (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 3180377001987523629, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
+      propertyPath: m_TagString
+      value: Coin
+      objectReference: {fileID: 0}
+    - target: {fileID: 3180377001987523629, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
 --- !u!4 &1428331888 stripped
@@ -6086,6 +6416,14 @@ PrefabInstance:
     - target: {fileID: 3180377001987523629, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
       propertyPath: m_Name
       value: Coin (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3180377001987523629, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
+      propertyPath: m_TagString
+      value: Coin
+      objectReference: {fileID: 0}
+    - target: {fileID: 3180377001987523629, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
@@ -6149,6 +6487,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Coin (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 3180377001987523629, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
+      propertyPath: m_TagString
+      value: Coin
+      objectReference: {fileID: 0}
+    - target: {fileID: 3180377001987523629, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
 --- !u!4 &1440009001 stripped
@@ -6211,6 +6557,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Coin (21)
       objectReference: {fileID: 0}
+    - target: {fileID: 3180377001987523629, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
+      propertyPath: m_TagString
+      value: Coin
+      objectReference: {fileID: 0}
+    - target: {fileID: 3180377001987523629, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
 --- !u!4 &1449693166 stripped
@@ -6272,6 +6626,14 @@ PrefabInstance:
     - target: {fileID: 3180377001987523629, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
       propertyPath: m_Name
       value: Coin (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3180377001987523629, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
+      propertyPath: m_TagString
+      value: Coin
+      objectReference: {fileID: 0}
+    - target: {fileID: 3180377001987523629, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
@@ -6593,6 +6955,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Coin (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 3180377001987523629, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
+      propertyPath: m_TagString
+      value: Coin
+      objectReference: {fileID: 0}
+    - target: {fileID: 3180377001987523629, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
 --- !u!4 &1555946686 stripped
@@ -6614,7 +6984,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1579109797
 Transform:
@@ -6730,6 +7100,10 @@ PrefabInstance:
       value: 16
       objectReference: {fileID: 0}
     - target: {fileID: 7895440503942107609, guid: cb9357ebb5f9c064a9909b9bb8a5d673, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 8.2344
+      objectReference: {fileID: 0}
+    - target: {fileID: 7895440503942107609, guid: cb9357ebb5f9c064a9909b9bb8a5d673, type: 3}
       propertyPath: m_LocalPosition.x
       value: 20.23
       objectReference: {fileID: 0}
@@ -6739,7 +7113,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7895440503942107609, guid: cb9357ebb5f9c064a9909b9bb8a5d673, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -14.6
+      value: -14.7
       objectReference: {fileID: 0}
     - target: {fileID: 7895440503942107609, guid: cb9357ebb5f9c064a9909b9bb8a5d673, type: 3}
       propertyPath: m_LocalRotation.w
@@ -6772,6 +7146,10 @@ PrefabInstance:
     - target: {fileID: 7980590782236058737, guid: cb9357ebb5f9c064a9909b9bb8a5d673, type: 3}
       propertyPath: m_Name
       value: hurdle lg (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7980590782236058737, guid: cb9357ebb5f9c064a9909b9bb8a5d673, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cb9357ebb5f9c064a9909b9bb8a5d673, type: 3}
@@ -6839,6 +7217,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: hurdle lg (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 7980590782236058737, guid: cb9357ebb5f9c064a9909b9bb8a5d673, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cb9357ebb5f9c064a9909b9bb8a5d673, type: 3}
 --- !u!4 &1644064483 stripped
@@ -6901,6 +7283,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Coin (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 3180377001987523629, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
+      propertyPath: m_TagString
+      value: Coin
+      objectReference: {fileID: 0}
+    - target: {fileID: 3180377001987523629, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
 --- !u!4 &1646641133 stripped
@@ -6962,6 +7352,10 @@ PrefabInstance:
     - target: {fileID: 7980590782236058737, guid: 8030d4aeca8e5794abf9d0a1c2ddb896, type: 3}
       propertyPath: m_Name
       value: hurdle xl
+      objectReference: {fileID: 0}
+    - target: {fileID: 7980590782236058737, guid: 8030d4aeca8e5794abf9d0a1c2ddb896, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8030d4aeca8e5794abf9d0a1c2ddb896, type: 3}
@@ -7098,6 +7492,10 @@ PrefabInstance:
     - target: {fileID: 7980590782236058737, guid: 8030d4aeca8e5794abf9d0a1c2ddb896, type: 3}
       propertyPath: m_Name
       value: hurdle xl (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7980590782236058737, guid: 8030d4aeca8e5794abf9d0a1c2ddb896, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8030d4aeca8e5794abf9d0a1c2ddb896, type: 3}
@@ -7271,6 +7669,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: hurdle lg
       objectReference: {fileID: 0}
+    - target: {fileID: 7980590782236058737, guid: cb9357ebb5f9c064a9909b9bb8a5d673, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cb9357ebb5f9c064a9909b9bb8a5d673, type: 3}
 --- !u!4 &1747898790 stripped
@@ -7443,6 +7845,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: hurdle lg (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 7980590782236058737, guid: cb9357ebb5f9c064a9909b9bb8a5d673, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cb9357ebb5f9c064a9909b9bb8a5d673, type: 3}
 --- !u!4 &1852217893 stripped
@@ -7504,6 +7910,14 @@ PrefabInstance:
     - target: {fileID: 3180377001987523629, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
       propertyPath: m_Name
       value: Coin (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3180377001987523629, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
+      propertyPath: m_TagString
+      value: Coin
+      objectReference: {fileID: 0}
+    - target: {fileID: 3180377001987523629, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
@@ -7640,6 +8054,10 @@ PrefabInstance:
     - target: {fileID: 7980590782236058737, guid: 8030d4aeca8e5794abf9d0a1c2ddb896, type: 3}
       propertyPath: m_Name
       value: hurdle xl (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7980590782236058737, guid: 8030d4aeca8e5794abf9d0a1c2ddb896, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8030d4aeca8e5794abf9d0a1c2ddb896, type: 3}
@@ -7855,6 +8273,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: hurdle lg (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 7980590782236058737, guid: cb9357ebb5f9c064a9909b9bb8a5d673, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cb9357ebb5f9c064a9909b9bb8a5d673, type: 3}
 --- !u!4 &1948036838 stripped
@@ -7991,6 +8413,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: hurdle lg (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 7980590782236058737, guid: cb9357ebb5f9c064a9909b9bb8a5d673, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cb9357ebb5f9c064a9909b9bb8a5d673, type: 3}
 --- !u!4 &2002212605 stripped
@@ -8056,6 +8482,10 @@ PrefabInstance:
     - target: {fileID: 7980590782236058737, guid: 2209101700dde204ab31cdda69ebf607, type: 3}
       propertyPath: m_Name
       value: hurdle md (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7980590782236058737, guid: 2209101700dde204ab31cdda69ebf607, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2209101700dde204ab31cdda69ebf607, type: 3}
@@ -8302,6 +8732,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: hurdle sm
       objectReference: {fileID: 0}
+    - target: {fileID: 7980590782236058737, guid: e75a3aa07e5032049adbbf31b1fb0605, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e75a3aa07e5032049adbbf31b1fb0605, type: 3}
 --- !u!4 &2042939432 stripped
@@ -8368,6 +8802,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: hurdle md (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 7980590782236058737, guid: 2209101700dde204ab31cdda69ebf607, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2209101700dde204ab31cdda69ebf607, type: 3}
 --- !u!4 &2057229532 stripped
@@ -8386,7 +8824,7 @@ GameObject:
   - component: {fileID: 2080092632}
   m_Layer: 0
   m_Name: Collection
-  m_TagString: Untagged
+  m_TagString: Coin
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8487,6 +8925,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: hurdle md (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 7980590782236058737, guid: 2209101700dde204ab31cdda69ebf607, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2209101700dde204ab31cdda69ebf607, type: 3}
 --- !u!4 &2082837712 stripped
@@ -8553,6 +8995,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: hurdle md (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 7980590782236058737, guid: 2209101700dde204ab31cdda69ebf607, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2209101700dde204ab31cdda69ebf607, type: 3}
 --- !u!4 &2087557068 stripped
@@ -8610,7 +9056,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2110679420
 Transform:
@@ -8692,6 +9138,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Coin (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 3180377001987523629, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
+      propertyPath: m_TagString
+      value: Coin
+      objectReference: {fileID: 0}
+    - target: {fileID: 3180377001987523629, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2536034253f2e1943ae69dd77ca023c8, type: 3}
 --- !u!4 &2124087051 stripped
@@ -8754,6 +9208,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: hurdle xl (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 7980590782236058737, guid: 8030d4aeca8e5794abf9d0a1c2ddb896, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8030d4aeca8e5794abf9d0a1c2ddb896, type: 3}
 --- !u!4 &2138896245 stripped
@@ -8761,93 +9219,3 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 7895440503942107609, guid: 8030d4aeca8e5794abf9d0a1c2ddb896, type: 3}
   m_PrefabInstance: {fileID: 2138896244}
   m_PrefabAsset: {fileID: 0}
---- !u!1001 &2142716030
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 589018179}
-    m_Modifications:
-    - target: {fileID: -8679921383154817045, guid: 3076b9d885d3290469095066b80e14b2, type: 3}
-      propertyPath: m_RootOrder
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 3076b9d885d3290469095066b80e14b2, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 0.8
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 3076b9d885d3290469095066b80e14b2, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 3076b9d885d3290469095066b80e14b2, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 0.8
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 3076b9d885d3290469095066b80e14b2, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 24.92
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 3076b9d885d3290469095066b80e14b2, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 4.33
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 3076b9d885d3290469095066b80e14b2, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -0.08
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 3076b9d885d3290469095066b80e14b2, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.70710677
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 3076b9d885d3290469095066b80e14b2, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0.70710677
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 3076b9d885d3290469095066b80e14b2, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 3076b9d885d3290469095066b80e14b2, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 3076b9d885d3290469095066b80e14b2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: -90
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 3076b9d885d3290469095066b80e14b2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: -90
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 3076b9d885d3290469095066b80e14b2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: -7511558181221131132, guid: 3076b9d885d3290469095066b80e14b2, type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 23ebb127c276d104db3b2fe645ea9a77, type: 2}
-    - target: {fileID: 919132149155446097, guid: 3076b9d885d3290469095066b80e14b2, type: 3}
-      propertyPath: m_Name
-      value: goal
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 3076b9d885d3290469095066b80e14b2, type: 3}
---- !u!4 &2142716031 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 3076b9d885d3290469095066b80e14b2, type: 3}
-  m_PrefabInstance: {fileID: 2142716030}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &2142716034
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 599738415}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2d152ebf74285da4082d86147a96d254, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 

@@ -9,7 +9,7 @@ public class PlayerController : MonoBehaviour
     private float strength = 5;
     private bool spaceWasPressed;
     private bool isGrounded;
-    
+ 
 
     private void Start()
     {
@@ -46,7 +46,6 @@ public class PlayerController : MonoBehaviour
             rb.AddForce(Vector3.up * strength, ForceMode.VelocityChange);
             spaceWasPressed = false;
         }
-
     }
 
     private void OnCollisionEnter(Collision collision)
@@ -57,5 +56,13 @@ public class PlayerController : MonoBehaviour
     private void OnCollisionExit(Collision collision)
     {
         isGrounded = false;
+    }
+
+    private void OnTriggerEnter(Collider other)
+    {
+        if(other.gameObject.CompareTag("Coin"))
+        {
+            other.gameObject.SetActive(false);
+        }
     }
 }
