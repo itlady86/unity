@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class PlayerController : MonoBehaviour
 {
@@ -9,34 +10,41 @@ public class PlayerController : MonoBehaviour
     private float strength = 5;
     private bool spaceWasPressed;
     private bool isGrounded;
-    private int count;
+    private int score;
+    private int scoreDelta = 10;
+    public Text scoreText;
+    public Text goalText;
+    private bool isEnd;
 
     private void Start()
     {
         // zpøístupìní objektu hráèe
         rb = GetComponent<Rigidbody>();
-
-        count = 0;
+        // skore na zaèátku hry
+        score = 0;
+        SetScore();
+        goalText.text = "";
+        isEnd = false; 
     }
 
     private void Update()
     {
-        // skákání po stisknutí mezerníku
+        // skákání po stisknutí mezerníku --> pøejde do FixedUpdate
         if (Input.GetKeyDown(KeyCode.Space))
         {
             spaceWasPressed = true;      
         }
     }
 
-    // uplatòuje se fyzika
+    // v této metodì se uplatòuje fyzika
     private void FixedUpdate()
     {
-        //pohyb kamery v závislosti na pohybu hráèe
+        // kamera sleduje pohyb hráèe
         float moveH = Input.GetAxis("Horizontal");
         float moveV = Input.GetAxis("Vertical");
         rb.AddForce(new Vector3(moveH, 0.0f, moveV) * speed);
 
-        // ošetøení nìkoliknásobného skoku - skok povolen jen, když je hráè na zemi
+        // skok  hráèe jen, když je hráè na zemi --> nelze se odrážet ve vzduchu
         if (!isGrounded)
         {
             return;
@@ -50,26 +58,61 @@ public class PlayerController : MonoBehaviour
         }
     }
 
+    // pøepínaèe, jestli je hráè ve vzduchu nebo na herní ploše - zde je na ploše
     private void OnCollisionEnter(Collision collision)
     {
         isGrounded = true;
     }
-
+    // pøepínaèe, jestli je hráè ve vzduchu nebo na herní ploše - zde je ve vzduchu
     private void OnCollisionExit(Collision collision)
     {
         isGrounded = false;
     }
 
+    // interakce hráèe s dalšími objekty
     private void OnTriggerEnter(Collider other)
     {
+        // hráè sebere minci a ta "zmizí"
         if(other.gameObject.CompareTag("Coin")) 
         {
             other.gameObject.SetActive(false);
-            count++;
+            // poèítání skore
+            score = score + scoreDelta;
+            SetScore();
         }
+
+        // oveøuje konec hry, pokud není konec hry, tak se z kodu vyskoèí,
+        if (!isEnd)
+        {
+            return;
+        }
+        
+        
+        // vykoná se, pokud je konec hry 
+        // když hráè dojde do cíle, zmizí "goal"
         if (other.gameObject.CompareTag("Goal"))
         {
             other.gameObject.SetActive(false);
+            EndOfTheGame();
+        }
+        
+    }
+
+    private void SetScore()
+    {
+        scoreText.text = "Skore: " + score.ToString();
+        if (score >= 220)
+        {
+            isEnd = true;
         }
     }
+
+    private void EndOfTheGame()
+    {
+        if (isEnd)
+        {
+            goalText.text = "Konec hry";
+        }
+    }
+
 }
