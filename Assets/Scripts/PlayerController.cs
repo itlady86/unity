@@ -18,6 +18,7 @@ public class PlayerController : MonoBehaviour
 
     private void Start()
     {
+        Cursor.visible = false;
         // zpøístupìní objektu hráèe
         rb = GetComponent<Rigidbody>();
         // skore na zaèátku hry
