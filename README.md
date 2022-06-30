@@ -1,12 +1,11 @@
-# Unity - semestr·lnÌ pr·ce
+# Unity - semestr√°ln√≠ pr√°ce
 
-## Lucie N·zrov·
-
-### VOSPlzen - AIK2
-
-Sezn·menÌ se s Unity - vytvo¯ena jednoduch· na zp˘sob bludiötÏ  
-hr·Ë ovl·d· kouli, kterou proch·zÌ bludiötÏm a sbÌr· mince  
-p¯ed dosaûenÌm konce kola musÌ b˝t vöechny mince sebr·ny  
-
-
-**2022 Lucie N·zrov·**
+---
+ 
+> - Vytvo≈ôena jednoduch√° 3D hra na zp≈Øsob bludi≈°tƒõ  
+> - Hr√°ƒç pomoc√≠ ≈°ipek, p≈ô√≠p. kl√°ves AWSD ovl√°d√° kouli
+> - Pomoc√≠ mezern√≠ku sk√°ƒçe/p≈ôech√°z√≠ p≈ôes mal√© p≈ôek√°≈æky
+> - P≈ôed dosa≈æen√≠m c√≠le je t≈ôeba sebrat v≈°echny mince v bludi≈°ti
+ 
+---
+_Lucie N√°zrov√° &copy; 2022_
