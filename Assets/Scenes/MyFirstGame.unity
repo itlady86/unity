@@ -4813,6 +4813,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   playerPrefab: {fileID: 0}
+  panelMenu: {fileID: 1951565283}
 --- !u!4 &963285024
 Transform:
   m_ObjectHideFlags: 0
